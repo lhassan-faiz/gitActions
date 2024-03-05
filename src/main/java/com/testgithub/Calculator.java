@@ -31,9 +31,11 @@ public class Calculator {
         double quotient = calculator.divide(8, 2);
 
         // Display results
-        System.out.println("Sum: " + sum);
+        System.out.println("Sum: bbb " + sum);
         System.out.println("Difference: " + difference);
         System.out.println("Product: " + product);
         System.out.println("Quotient: " + quotient);
+        System.out.println("after modified");
+
     }
 }
